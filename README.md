@@ -1,5 +1,5 @@
-<h1 align="center">👋 Привет! Меня зовут [Ваше Имя]</h1>
-<h3 align="center">Начинающий Data Scientist из Санкт-Петербурга | В поиске стажировки/Junior роли</h3>
+<h1 align="center">👋 Привет! Меня зовут Дмитрий Краснощеков</h1>
+<h3 align="center">Начинающий Data Scientist из Санкт-Петербурга | В поиске работы </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=22D3F7&center=true&vCenter=true&width=500&lines=DS+%7C+ML+Enthusiast+%7C+Theory+Lover;Turning+Data+into+Decisions+%F0%9F%93%8A;Open+for+Collaboration+%F0%9F%91%8B" alt="Типичная строка" />
@@ -60,10 +60,9 @@
 ### 🌐 **Контакты и Соцсети**
 **Открыт для предложений!** Ищу стажировку/Junior позицию в **Санкт-Петербурге** (гибрид).
 
-*   **📧 Email:** [your.email@example.com](mailto:your.email@example.com)
-*   **💼 LinkedIn:** [Ваше имя на LinkedIn](ссылка_на_LinkedIn)
-*   **🐱 GitHub:** [Ваш ник на GitHub](ссылка_на_GitHub) (вы уже здесь!)
-*   **📄 Резюме:** [Скачать PDF](ссылка_на_резюме_в_GitHub)
+*   **📧 Email:** [dmikra6216@gmail.com](mailto:dmikra6216@gmail.com)
+*   **🐱 GitHub:** [Dmikrads](ссылка_на_GitHub) (вы уже здесь!)
+*   **📄 Резюме:** [Скачать PDF](ccskrf)
 
 [![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-%230A66C2?logo=linkedin&style=for-the-badge)](ссылка_на_LinkedIn)
 [![Telegram](https://img.shields.io/badge/-Write%20on%20Telegram-%2326A5E4?logo=telegram&style=for-the-badge)](https://t.me/ваш_телеграм)
