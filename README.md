@@ -65,7 +65,7 @@
 *   **📄 Резюме:** [Скачать PDF](ccskrf)
 
 [![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-%230A66C2?logo=linkedin&style=for-the-badge)](ссылка_на_LinkedIn)
-[![Telegram](https://img.shields.io/badge/-Write%20on%20Telegram-%2326A5E4?logo=telegram&style=for-the-badge)](https://t.me/ваш_телеграм)
+[![Telegram](https://img.shields.io/badge/-Write%20on%20Telegram-%2326A5E4?logo=telegram&style=for-the-badge)](https://t.me/dmikra666)
 
 ---
 
