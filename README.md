@@ -1,5 +1,5 @@
 <h1 align="center">👋 Привет! Меня зовут Дмитрий Краснощеков</h1>
-<h3 align="center">Начинающий Data Scientist из Санкт-Петербурга | В поиске работы </h3>
+<h3 align="center">Data Scientist из Санкт-Петербурга | В поиске работы </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=22D3F7&center=true&vCenter=true&width=500&lines=DS+%7C+ML+Enthusiast+%7C+Theory+Lover;Turning+Data+into+Decisions+%F0%9F%93%8A;Open+for+Collaboration+%F0%9F%91%8B" alt="Типичная строка" />
